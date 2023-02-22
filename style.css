@@ -1,0 +1,28 @@
+body {
+    padding-bottom: 20px;
+}
+
+
+h3{
+  width: 50%;
+}
+
+#player1{
+  float: left;
+}
+
+#player2{
+  float:right;
+  text-align: right;
+}
+td{
+  height: 120px;
+  width: 120px;
+  border: 5px solid black;
+  text-align: center;
+  font-size: 70px;
+}
+
+span{
+  color: red;
+}
